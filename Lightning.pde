@@ -12,8 +12,6 @@ void draw () {
   fill (232,0,0);
   ellipse (300,200,100,100);
   fill (255);
-  arc(275, 200, 38, 40, 0, PI+QUARTER_PI, CHORD);
-  arc(325, 200, 38, 40, 0, PI, CHORD);
   fill (232,0,0);
   ellipse (300,300,110,35);
   ellipse (340,300,25,25); //thumb
